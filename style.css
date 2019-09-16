@@ -1,0 +1,111 @@
+.content{
+  font-family:"Helvetica";
+  max-width: 300px
+	margin-top:30VH;
+  margin-right:12VW;
+  margin-left:10VW;
+  line-height: 1.8;
+}
+
+
+hr.top{
+  border-top:5px solid black;
+  margin-top:3VH;
+}
+
+hr.bottom{
+  border-bottom:5px solid black;
+}
+
+hr.contenttop{
+  align-items: center;
+  width:97%;
+  margin-top:1VW;
+}
+
+hr.contentbottom{
+  align-items:left;
+  width:77%;
+  margin-left:0.01VW;
+}
+
+.name{
+  font-size:30PX;
+  text-align:center;
+  font-family: "Helvetica";
+  margin-bottom:10px;
+}
+
+.introduction{
+  text-align: left;
+  font-size:16px;
+  margin-left:1.5VW;
+}
+
+.portfoliodetail{
+  text-align: left;
+  font-size:16px;
+  margin-left:1.5VW;
+}
+
+
+a:link{
+  color:black;
+}
+
+a:visited{
+  color:black;
+  font-style:italic;
+  text-decoration:none;
+}
+
+
+
+.aboutme{
+  width:75%;
+}
+
+nav{
+  font-family:"Helvetica";
+  text-decoration:none;
+  font-size:16px;
+  font-weight:bold;
+  margin-top:3VH;
+  margin-bottom:3VH;
+  display:block;
+  text-align:center;
+}
+
+.linknav{
+	font-family:"Helvetica";
+  text-decoration:none;
+  font-size:16px;
+  font-weight:bold;
+  margin-top:3VH;
+  margin-bottom:3VH;
+  display:block;
+  text-align:center;
+}
+
+
+.image1{
+  display:block;
+  border:2px solid black;
+  padding:3px;
+  width:200px;
+  height:200px;
+  margin-right:1.5VW;
+}
+
+.image2{
+  display:block;
+  border:2px solid black;
+  padding:3px;
+  height:338px;
+  width:600px;
+}
+
+.title{
+  font-style:italic;
+  font-weight:bold;
+}
